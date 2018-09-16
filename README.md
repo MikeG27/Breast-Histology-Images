@@ -6,6 +6,10 @@
 ## Learning curve with validation 
 ![figure_2](https://user-images.githubusercontent.com/21131348/45601072-036fdc00-ba07-11e8-8b5b-ed84079effe5.png)
 
+## Confusion matrix 
+
+![figure_3](https://user-images.githubusercontent.com/21131348/45601082-3914c500-ba07-11e8-9219-b035f9e6adc5.png)
+
 
 ## Cancer detection system test
 ### Test accuracy 81%
